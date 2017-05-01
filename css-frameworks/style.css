@@ -1,0 +1,267 @@
+body {
+  margin-top: 113px;
+}
+.collapse img {
+  padding-top: 35px;
+  width: 190px;
+  margin-right: 50px
+}
+.margin-from-logo li {
+  padding-left: 12px
+}
+.search {
+  padding: 50px 0 0 10px;
+}
+.container-fluid {
+  padding: 0;
+}
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-size: 74px;
+  letter-spacing: 7px;
+  padding: 5px;
+}
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+  margin: 10px 0 60px 46px;
+  color: #a3b1bf;
+}
+.little-logo {
+  margin-top: 33px;
+}
+.extra-lg {
+  font-family: 'Source Sans Pro Bold', sans-serif;
+  padding: 21px 65px;
+}
+.right:hover .decor, .left:hover .decor {
+  opacity: 1;
+  width: 61px;
+  height: 61px;
+  padding: 14px 0;
+  background: #506a85;
+  border-radius: 3px;
+  color: #00bc9c;
+}
+.carousel-caption {
+  top: 0%
+}
+.indicator {
+  width: 143px;
+  height: 39px;
+  background: white;
+  border-radius: 3px;
+  left: 75%;
+  padding-top: 8px;
+  top: 97.9%;;
+}
+.carousel-indicators .active {
+  width: 16px;
+  height: 16px;
+  border: none;
+  margin: 3px;
+}
+.indicator li {
+  width: 16px;
+  height: 16px;
+  background: #506a85;
+  border: none;
+  margin: 3px;
+}
+.text-left p {
+  margin-left: 0;
+}
+.h1-background {
+  background: #506a85;
+  display: inline;
+}
+h2 {
+  font-family: 'Lato', sans-serif;
+  margin: 127px 0 17px 0px;
+  font-size: 46px;
+  letter-spacing: -1px;
+  color: #506a85;
+}
+.first-post {
+  font-size: 22.5px;
+  text-align: center;
+}
+.arrow, .slider {
+  opacity: 0;
+}
+#carousel:hover .slider {
+  opacity: 1;
+  transition-duration: 1s;
+}
+#carousel:hover .arrow {
+  opacity: 1;
+  transition-duration: 1s;
+}
+.section {
+  margin: 14px 0 103px 0px;
+}
+.section i {
+  font-size: 518%;
+  color: #00bc9c;
+}
+.section div span {
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  line-height: 1.67;
+}
+.fa-5x {
+  margin-right: -24px;
+}
+h3 {
+  margin: 0 0px 23px 0;
+  font-size: 24px;
+}
+.center {
+  text-align: center;
+}
+.gallery {
+  background-color: #f2f5f7;
+}
+figure img {
+  width: 100%;
+}
+figcaption {
+  background-color: #fff;
+  margin: -10px 0px 0px 0px;
+  height: 110px;
+  width: 100%;
+}
+h5 {
+  text-align: center;
+  color: #506a85;
+  padding: 32px 0 0 0;
+  font-family: Lato;
+  font-size: 21px;
+}
+h5:hover {
+  color: #00bc9c;
+  cursor: pointer;
+}
+.sign {
+  font-size: 16px;
+  text-align: center;
+  margin: 0;
+}
+.little-slider {
+  margin-top: 82px;
+  margin-bottom: 35px;
+}
+figure {
+  background-color: #00bc9c;
+  margin-bottom: 16px;
+}
+.latest-works figure {
+  background: #00bc9c;
+  width: 129px;
+  height: 84px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+figure img:hover {
+  opacity: 0.15;
+  cursor: pointer;
+}
+.carousel-indicators li {
+  background: #506a85;
+  width: 16px;
+  height: 16px;
+  margin: 3px;
+}
+.indicate-for-gallery {
+  position: relative;
+  margin-bottom: 100px;
+}
+.indicate-for-gallery div {
+  width: 137px;
+  height: 62px;
+  left: 44%;
+}
+.arrow-left {
+  left: -2%;
+  top: -40px;
+}
+.arrow-right {
+  left: 97%;
+  top: -40px;
+}
+.decor-bottom-indicate {
+  background: #506a85;
+  color: #00bc9c;
+  border-radius: 6px;
+  font-size: 17px!important;
+  padding: 7px 0 0 0;
+}
+.color-footer {
+  background-color: #2f4052;
+  padding: 0px;
+}
+.lg-btn {
+  border-radius: 2px;
+  font-size: 14px;
+  font-family: Sourse Sans Pro;
+  padding: 15px 24px;
+  margin: -22px 0 127px 0px;
+}
+h6 {
+  margin: 73px 0 21px 0;
+  color: white;
+  font-size: 18px
+}
+.sign-left {
+  font-size: 15px;
+  text-align: left;
+  margin: 21px 0 21px 0px;
+  letter-spacing: -0.3px;
+}
+.info-about-us {
+  color: #a3b1bf;
+  display: block;
+  margin: 4px 0;
+}
+.latest-works img {
+  width: 129px;
+  height: 89px;
+  padding-bottom: 5px;
+}
+.form-control {
+  height: 39px;
+  border: none;
+}
+.up-part-footer {
+  margin-bottom: 71px;
+}
+button {
+  border: none!important;
+  outline: none!important;
+}
+.info-footer {
+  background-color: #283645;
+  color: #435160;
+}
+.breadcrumb a {
+  color: #435160;
+}
+.info-about-us:hover, .breadcrumb a:hover {
+  color: #00bc9c;
+}
+.info {
+  float: right;
+  font-size: 14px;
+}
+.down-part-footer {
+  padding: 34px 0 0 18px;
+  color: #4c5a69;
+}
+.input-group {
+  background: #4c5a69;
+  border-radius: 4px;
+}
+input {
+  box-shadow: none!important;
+}
